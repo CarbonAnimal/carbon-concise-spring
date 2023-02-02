@@ -1,12 +1,10 @@
-# <img src="assets/spring-framework.png" width="80" height="80"> mini-spring
+# <img src="assets/spring-framework.png" width="80" height="80"> carbon-concise-spring
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/CarbonAnimal/mini-spring)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Stars](https://img.shields.io/github/stars/CarbonAnimal/mini-spring)](https://img.shields.io/github/stars/CarbonAnimal/mini-spring)
 [![Forks](https://img.shields.io/github/forks/CarbonAnimal/mini-spring)](https://img.shields.io/github/forks/CarbonAnimal/mini-spring)
 
-**[English](./README_en.md) | 简体中文**
-
-**姊妹版：**[**mini-spring-cloud**](https://github.com/CarbonAnimal/mini-spring-cloud) **(简化版的spring cloud框架)**
+**简体中文**
 
 ## 关于
 
